@@ -132,6 +132,7 @@ span {
         text-align: center; 
         color: #fff;
         margin: 20px auto;
+        line-height: 30px;
     }
 
     .wrapper{
@@ -160,6 +161,7 @@ span {
         font-weight: 300;
         margin: 50px 0;
         text-align: center;
+        line-height: 30px;
     }
 
     .front img, .back img {
@@ -196,6 +198,7 @@ span {
         text-align: center; 
         color: #fff;
         margin: 20px auto;
+        line-height: 30px;
     }
 
     .wrapper{
@@ -224,6 +227,7 @@ span {
         font-weight: 300;
         margin: 50px 0;
         text-align: center;
+        line-height: 30px;
     }
 
     .front img, .back img {
