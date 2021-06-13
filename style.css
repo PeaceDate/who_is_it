@@ -8,7 +8,7 @@ h1 {
     font-weight: 500;
     width: 50%;
     text-align: center;
-    margin: 50px auto;
+    margin: 30px auto;
     color: #fff;
 }
 
@@ -23,6 +23,10 @@ p {
 
 span {
     color: rgb(167, 0, 0);
+}
+
+.second_p {
+    margin: 20px 0;
 }
 
 .header {
@@ -115,7 +119,7 @@ span {
         font-weight: 500;
         width: 50%;
         text-align: center;
-        margin: 50px auto;
+        margin: 30px auto;
         color: #fff;
     }
     
@@ -125,7 +129,7 @@ span {
         font-weight: 300;
         text-align: center; 
         color: #fff;
-        margin: 50px auto;
+        margin: 20px auto;
     }
 
     .wrapper{
@@ -179,7 +183,7 @@ span {
         font-weight: 500;
         width: 50%;
         text-align: center;
-        margin: 50px auto;
+        margin: 30px auto;
         color: #fff;
     }
     
@@ -189,7 +193,7 @@ span {
         font-weight: 300;
         text-align: center; 
         color: #fff;
-        margin: 50px auto;
+        margin: 20px auto;
     }
 
     .wrapper{
